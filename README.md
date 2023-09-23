@@ -46,3 +46,19 @@ index.html
 assets/img/profile.png
 assets/css/main.css
 ```
+
+## 6 - table
+create page with show list of family members and link to profile page:
+- use table to display members in main page(index.html)
+- each row has coluns: name, degree of kinship, age, city, and actions
+last row, actions, is a link to profile page, with infos like photo, name, age, city
+
+estructure example:
+```
+index.html
+assets/css/
+assets/profiles/
+assets/img/
+```
+
+
