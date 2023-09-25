@@ -62,3 +62,8 @@ assets/img/
 ```
 
 
+## 7 - todo app
+create page following the image layout:
+
+![todo app](assets/todo-exercises-7.png)
+
