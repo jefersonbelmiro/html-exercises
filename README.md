@@ -67,3 +67,15 @@ create page following the image layout:
 
 ![todo app](assets/todo-exercises-7.png)
 
+
+## 8 - flexbox
+
+Learn how it works with the videos below:
+
+videos:
+* [Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94&ab_channel=SlayingTheDragon)
+* [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc&ab_channel=TraversyMedia)
+ 
+and practice according to this tutorial:
+* [Exercises in Flexbox](https://webdesign.tutsplus.com/exercises-in-flexbox-simple-web-components--cms-28049t)
+
